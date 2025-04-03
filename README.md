@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShubhamRandive08  
+- 👋 Hi, I’m Shubham B. Randive 
 - 👀 I’m interested in web development, software development, and automation testing.  
 - 🌱 I’m currently learning automation testing.  
 - 💞️ I’m looking to collaborate on exciting projects related to automation, testing frameworks, and scalable web applications.  
