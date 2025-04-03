@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @ShubhamRandive08
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ShubhamRandive08/ShubhamRandive08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @ShubhamRandive08  
+- 👀 I’m interested in web development, software development, and automation testing.  
+- 🌱 I’m currently learning automation testing.  
+- 💞️ I’m looking to collaborate on exciting projects related to automation, testing frameworks, and scalable web applications.  
+- 📫 How to reach me: [srandive245@gmail.com]  or [[www.linkedin.com/in/shubham-randive-8712a824a](https://www.linkedin.com/in/shubham-randive-8712a824a/)]  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love solving complex problems and automating repetitive tasks to make life easier!  
