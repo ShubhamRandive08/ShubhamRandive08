@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=35&duration=3000&pause=500&color=30F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+%F0%9D%90%92%F0%9D%90%A1%F0%9D%90%AE%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%9C+%F0%9D%90%81.+%F0%9D%90%91%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%A2%F0%9D%90%9F%F0%9D%90%9E!;Automation+%7C+Web+%7C+Software+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=35&duration=3000&pause=500&color=30F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+" alt="Typing SVG" />
 </h1>
 
 <p align="center">🚀 Passionate about Web Development, Software Engineering, and Automation Testing from India 🇮🇳</p>
