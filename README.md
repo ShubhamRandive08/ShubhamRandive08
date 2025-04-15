@@ -1,9 +1,67 @@
-# 👋 Hi, I’m Shubham B. Randive
+<!-- Profile Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=30F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shubham+B.+Randive!;Automation+%7C+Web+%7C+Software+Developer;" alt="Typing SVG" />
+</h1>
+
+<p align="center">🚀 Passionate about Web Development, Software Engineering, and Automation Testing from India 🇮🇳</p>
+
+---
+
+### 👨‍💻 About Me
 
 - 👀 I’m interested in **web development**, **software development**, and **automation testing**.  
 - 🌱 I’m currently learning **automation testing**.  
 - 💞️ I’m looking to collaborate on exciting projects related to automation, testing frameworks, and scalable web applications.  
-- 📫 How to reach me: [srandive245@gmail.com](mailto:srandive245@gmail.com)  
-- 🔗 Connect with me on [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="20" height="20"/> LinkedIn](https://www.linkedin.com/in/shubham-randive-8712a824a/)  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: I love solving complex problems and automating repetitive tasks to make life easier! I’m interested in creating innovative projects.
+- 📫 Reach me at: [srandive245@gmail.com](mailto:srandive245@gmail.com)  
+- 🔗 Connect on [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn](https://www.linkedin.com/in/shubham-randive-8712a824a/)  
+- ⚡ Fun fact: I love solving complex problems and automating repetitive tasks to make life easier!
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />
+  
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  
+  <!-- Programming -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
+  
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" alt="Playwright" />
+</p>
+
+---
+
+### 📊 My GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shubhamrandive&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubhamrandive&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamrandive&show_icons=true&theme=radical&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrandive&layout=compact&theme=radical&hide_border=true" width="45%"/>
+</p>
+
+---
+
+<h2 align="center">🙏 Thank You for visiting!</h2>
