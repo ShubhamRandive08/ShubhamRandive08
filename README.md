@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 👀 I’m interested in **web development**, **software development**, and **automation testing**.  
-- 🌱 I’m currently learning **automation testing**.  
+- 🌱 I’m currently learning **MONGO DB**.  
 - 💞️ I’m looking to collaborate on exciting projects related to automation, testing frameworks, and scalable web applications.  
 - 📫 Reach me at: [srandive245@gmail.com](mailto:srandive245@gmail.com)  
 - 🔗 Connect on [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn](https://www.linkedin.com/in/shubham-randive-8712a824a/)  
