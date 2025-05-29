@@ -15,6 +15,7 @@
 - 📫 Reach me at: [srandive245@gmail.com](mailto:srandive245@gmail.com)  
 - 🔗 Connect on [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn](https://www.linkedin.com/in/shubham-randive-8712a824a/)  
 - ⚡ Fun fact: I love solving complex problems and automating repetitive tasks to make life easier!
+- Open to Work
 
 ---
 
