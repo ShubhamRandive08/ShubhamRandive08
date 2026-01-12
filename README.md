@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=35&duration=3000&pause=500&color=30F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Shubham+Randive" alt="Typing SVG" />
 </h1>
 
-<p align="center">🚀 Passionate about Web Development, Software Development, and Automation Testing </p>
+<p align="center">🚀 Passionate about Web Development, Software Development, Manual Testing and Automation Testing </p>
 
 ---
 
