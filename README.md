@@ -42,6 +42,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" alt="Playwright" />
+  <svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M12 15C13.6569 15 15 13.6569 15 12C15 10.3431 13.6569 9 12 9C10.3431 9 9 10.3431 9 12C9 13.6569 10.3431 9 12 12C13.6569 12 15 13.6569 15 15C15 16.6569 13.6569 18 12 18C10.3431 18 9 16.6569 9 15C9 13.3431 10.3431 12 12 12Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M12 3V5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  <path d="M12 19V21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  <path d="M3 12H5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  <path d="M19 12H21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2"/>
+</svg>
+<!-- Automation Testing Icon - Robot/Geared Concept -->
+<svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="12" cy="9" r="2" stroke="currentColor" stroke-width="2"/>
+  <circle cx="12" cy="9" r="2" stroke="currentColor" stroke-width="2" transform="rotate(90 12 9)"/>
+  <path d="M9 6L6 9L9 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M15 6L18 9L15 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="4" y="12" width="16" height="6" rx="2" stroke="currentColor" stroke-width="2"/>
+  <path d="M8 18V20" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  <path d="M16 18V20" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+</svg>
 </p>
 
 
